@@ -1,0 +1,49 @@
+.main-header{
+  text-align: left;
+  padding-left: 7%;
+  border-bottom: 5px;
+  border-color: white;
+  font-family: 'Righteous', cursive;
+}
+ img {
+   object-fit: cover;
+    object-position: 100% 10%;
+    height: 65vh;
+  }
+
+.logo {
+  padding-left: 33%;
+  border-radius: 1px;
+  border-color: white;
+
+}
+
+body {
+  background-color: black;
+}
+
+.content {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+
+.doiwannaknow {
+
+}
+
+.tourdates {
+  float: right;
+  padding-right: 20px;
+  color: white;
+}
+
+.foot {
+  color: white;
+  text-align: centre;
+}
+
+.tourlist {
+  list-style-type: square;
+}
